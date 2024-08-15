@@ -1,2 +1,2 @@
 # First-Commit
-Graphic design Corel Draw
+Graphic design using Corel Draw
